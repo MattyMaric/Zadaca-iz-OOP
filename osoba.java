@@ -13,8 +13,6 @@ public class osoba {
         int mjesec = 07;
         int godina = 2001;
 
-        System.out.println(ime + prezime + dan + mjesec + godina);
-
         System.out.println("Upisite broj podatka koje zelite prikazati na ekranu:");
         System.out.println("1. Ime");
         System.out.println("2. Prezime");
