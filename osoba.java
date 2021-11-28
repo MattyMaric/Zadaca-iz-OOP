@@ -33,7 +33,7 @@ public class osoba {
                     System.out.println("Korisnikovo prezime je: " + prezime);
                     break;
                 case 3:
-                    System.out.println("Korisnikov dan roenja je: " + dan);
+                    System.out.println("Korisnikov dan rodenja je: " + dan);
                     break;
                 case 4:
                     System.out.println("Korisnikov mjesec rodenja je: " + mjesec);
