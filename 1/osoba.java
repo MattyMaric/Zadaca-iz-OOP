@@ -43,6 +43,6 @@ public class osoba {
             }
             odabir = sc.nextInt();
         }
-
+            
     }
 }
