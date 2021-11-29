@@ -4,6 +4,7 @@ public class datum {
 
     static public void main(String args[]) {
         Scanner sc = new Scanner(System.in);
+        
         String mjesecText = null;
         int[] DaniUMjesecima = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 
@@ -13,7 +14,8 @@ public class datum {
         int mjesec = sc.nextInt();
         System.out.print("Upisite godinu: ");
         int godina = sc.nextInt();
-
+        sc.close();
+        
         switch (mjesec) {
             case 1:
                 mjesecText = "Sijecanj";
