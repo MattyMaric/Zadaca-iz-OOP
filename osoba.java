@@ -2,7 +2,6 @@ import java.util.*;
 
 public class osoba {
 
-    // static public String imeIPrezime(String ime, String prezime){}
 
     static public void main(String args[]) {
         Scanner sc = new Scanner(System.in);
