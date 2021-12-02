@@ -1,5 +1,8 @@
 import java.util.*;
 
+//Napisat kod s koji sadrzi varijable ime, prezime, i datum rodenja(Mora biti phranjeno u 3 varijable)
+//Korisiniku treba omoguciti pozivanje informacije koju on zeli, te tu informaciju ispisati na ekranu.
+
 public class osoba {
 
 
